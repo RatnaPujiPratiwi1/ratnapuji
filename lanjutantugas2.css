@@ -1,0 +1,36 @@
+/*
+2. Syintax dari CSS
+   a. Selector menunjuk ke elemen HTML yang ingin pakai gaya
+   b. Blok deklarasi berisi saru atau lebih deklarasi yang dipisahkan
+      oleh titik koma
+   c. Setiap deklarasi menyertakan nama pror
+   d. Beberapa deklarasi CSS dipisahkan dengan titik koma, dan blok 
+      deklarasi dikelilingi oleh tanda kurung kurawal
+   contoh 
+   h1 { color:red; font-family:sans-serif;}
+   h1 --> Selector
+   color --> Property
+   red --> Value
+   font-family --> Property
+   sans-serif --> Value
+   { color:red; font-family:sans-serif;} --> Deklarasi\
+   
+ 3. CSS Specificity adalah jika ada dua atau lebih aturan CSS yang bertentangan
+    yang mengarah ke elemen yang sama, browser mengikuti beberapa aturan untuk menentukan
+	mana yang paling spesifik.
+	
+ 4. Responsive Website adalah suatu keadaan sebuah halaman web dimana tampilannya akan cocok
+    rapi dan tetap enak dilihat jika diakses dari perangkat apapun dengan resolusi layar yang berbeda.
+
+ 5. CSS Media Queries adalah teknik CSS yang diperkenalkan di CSS3. 
+    
+ 6. CSS Flexbox dan Grid
+    a. Flexbox adalah untuk membuat layout menggunakan Flexbox, kita menambahkan
+	   display: flek untuk mendefinisikan Flexbox pada sebuah elemen dan flek-direction
+	   (untuk pembantuan arah elemen:kolom atau baris)
+	b. Grid digunakan untuk layout yang berdua dimensi (kolom dan baris)
+	
+ 7. Bootstrap adalah sebuah library framework CSS yang dibuat khusus untuk bagian
+    pengembangan front-end website.
+	
+*/
